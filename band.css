@@ -1,0 +1,167 @@
+.head{
+    background-color: black;
+    color: white;
+    size: 10x0px;    
+}
+a{
+    color: white;
+    size: 200px;
+    text-decoration: none;
+    font-size: larger;
+    padding: 0px 30px 0px 0px;
+}
+.head1{
+    display: inline;
+    width: 25px;
+    text-decoration: none;
+    color: white;
+    border: 90px;
+    padding: 10px;
+}
+.search {
+    display: inline;
+}
+.searchI {
+    width: 25px;
+    float: right;
+    color: red;
+    border: 90px;
+    padding: 10px;
+    background-color: white;
+}
+.stage {
+    max-width: 100%;    
+}
+.TheBand{
+    padding: 0px 20%;
+    text-align: center;
+    font-size: 1.7rem;
+    margin: 90px 0px;
+}
+.TheBand p {
+    text-align: justify;
+    font-size: 1.5rem;
+}
+.girl {
+  
+    margin: 0px auto;
+    width: 900px;
+}
+.girls {
+    float: left;
+    width: 280px;
+    height: 400px;
+    padding: 8px 9px;
+    text-align: center;
+  
+ }
+ .girl img{
+    max-width: 200px;
+}
+.tour {
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.tour p{
+    color: gainsboro;
+}
+.months {
+    border: 1px;
+    background-color: white;
+    border-color: gainsboro;
+    border-style: solid;
+    margin: -5px 23%;
+    text-align: left;
+    padding: 0px 10px 0px ;
+    color: #000000;
+}
+
+.ticket {
+      padding: 20px;
+    background-color: #000000;
+    text-align: center;
+    padding-bottom: 120px;
+}
+.tickets {
+    display: inline-block;
+    margin: 0px 10px;
+    background-color:white;
+    padding-bottom: 30px;   
+    text-align: left;
+}
+.tickets h2{padding-left:20px;}
+.tickets p{padding-left:20px; font-size: 1.1rem;}
+
+.tickets img {
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center 70%;
+}
+.tickets img:hover {
+    opacity: 0.5;
+}
+.tickets button {
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    font-size: 17px;
+}
+.tickets button:hover {
+    opacity: 0.5;
+}
+.cont{
+    text-align: center;
+    padding-top: 50px;
+}
+.locform {
+    text-align: center;
+}
+.location {
+    display: inline-block;
+    font-size: 1.4rem;
+    float: left;
+    text-align: left;
+    margin-left: 300px;
+}
+.form {
+    display: inline-flex;
+    margin-right: 50px;
+    text-align: left;
+    margin-right: 300px;
+    padding-top: 20px;
+}
+.form input{
+    width: 45.8%;
+    height: 25%;
+    font-size: 1.1rem;
+}
+.form textarea {
+    width: 99%;
+    height: 25%;
+    font-size: 1.1rem;
+}
+.form button{
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    font-size: 17px;
+    float: right;
+}
+.form button:hover {
+    opacity: 0.5;
+}
+.footer {
+    background-color: beige;
+    text-align: center;
+    padding: 100px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a:link {
+    color: black;
+}
